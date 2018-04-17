@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:layout_margin="@dimen/margin_standard"
+    android:orientation="vertical">
+
+    <EditText
+        android:id="@+id/editTextMinYear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:maxLength="4"
+        android:ems="10"
+        android:hint="Enter min year e.g 2010"
+        android:inputType="date" />
+
+    <EditText
+        android:id="@+id/editTextMaxYear"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="@dimen/margin_normal1"
+        android:maxLength="4"
+        android:ems="10"
+        android:hint="Enter max year e.g 2016"
+        android:inputType="date" />
+
+    <Button
+        android:id="@+id/btnApplyFilter"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_gravity="center_horizontal"
+        android:layout_marginTop="@dimen/margin_normal1"
+        android:padding="@dimen/margin_standard"
+        android:text="Apply Filter" />
+</LinearLayout>

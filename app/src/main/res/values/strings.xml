@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">The Movie Db App</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="server_unreachable">Unable to connect with server</string>
+    <string name="internet_issue">Internet connection issue</string>
+    <string name="title_activity_movie_details">Movie Details</string>
+    <string name="title_activity_movie_filter">Filter Movies</string>
+
+</resources>

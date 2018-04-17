@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+    <color name="splitterLineGrey1">#9f9f9f</color>
+    <color name="splitterLineGrey2">#E3E1DE</color>
+
+    <!-- Grey color scheme -->
+    <color name="colorGrey1">#3f3f3f</color>
+    <color name="colorGrey2">#696969</color>
+    <color name="colorGrey3">#7e7e7e</color>
+    <color name="colorGrey4">#a8a8a8</color>
+    <color name="colorGrey5">#bdbdbd</color>
+
+</resources>
